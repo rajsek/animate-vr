@@ -6,7 +6,6 @@ variables:
   app_public: public
   app_group: clients
   nginx_conf: $CI_PROJECT_DIR/conf/nginx.conf
-  dotenv: $CI_PROJECT_DIR/.env.example
 # Build Tasks
 deploy_dev:
   image: registry.git.int.krds.com/tools/deploy:v2
