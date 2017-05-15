@@ -2,7 +2,7 @@ stages:
   - deploy
 # Variables used by the deploy task
 variables:
-  app_name: gemo-bot
+  app_name: animate-vr
   app_public: public
   app_group: clients
   nginx_conf: $CI_PROJECT_DIR/conf/nginx.conf
