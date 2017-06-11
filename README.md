@@ -1,4 +1,5 @@
-#Animated-WebVr
+# Animated WebVr
+
 This Code is inspired from [animation-controls](https://rexraptor08.github.io/animation-controls/) Project,
 Example of using aframe-extras animation-mixer component with json model and web-rtc's getUserMedia function.
 
